@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="24"
+   height="24"
+   viewBox="0 0 6.3499999 6.3499999"
+   version="1.1"
+   id="svg10908"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   sodipodi:docname="javascript-roundedsquare-filled.svg">
+  <title
+     id="title11486">javascript-roundedsquare-filled</title>
+  <defs
+     id="defs10902" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="22.4"
+     inkscape:cx="11.239633"
+     inkscape:cy="11.063399"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1140"
+     inkscape:window-height="1368"
+     inkscape:window-x="1411"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:snap-center="true"
+     inkscape:snap-object-midpoints="true"
+     inkscape:snap-page="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:snap-smooth-nodes="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-bbox-midpoints="true">
+    <sodipodi:guide
+       position="0,6.3499999"
+       orientation="1,0"
+       id="guide11518" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata10905">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>javascript-roundedsquare-filled</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-109.4619,-112.48571)">
+    <path
+       id="javascript-6-6"
+       style="fill:#000000;fill-opacity:1;stroke-width:0.0508"
+       d="m 109.99106,112.48571 c -0.29316,0 -0.52916,0.23602 -0.52916,0.52917 v 5.29166 c 0,0.29316 0.236,0.52917 0.52916,0.52917 h 5.29167 c 0.29315,0 0.52917,-0.23601 0.52917,-0.52917 v -5.29166 c 0,-0.29315 -0.23602,-0.52917 -0.52917,-0.52917 z m 4.25607,2.84944 c 0.35971,-0.007 0.58478,0.088 0.74983,0.27233 0.0459,0.0465 0.0834,0.0964 0.15348,0.20516 -0.19162,0.12212 -0.19114,0.12099 -0.46561,0.29869 -0.0586,-0.12629 -0.15556,-0.20533 -0.25838,-0.23978 -0.15962,-0.0484 -0.36133,0.004 -0.40308,0.1726 -0.0145,0.052 -0.0111,0.10069 0.0119,0.18655 0.0647,0.14747 0.28127,0.2113 0.47594,0.30076 0.56037,0.22727 0.7498,0.47112 0.79634,0.76119 0.0447,0.24927 -0.0105,0.41151 -0.0191,0.43615 -0.20713,0.70678 -1.3595,0.72967 -1.82005,0.26252 -0.0973,-0.10998 -0.15846,-0.16709 -0.21652,-0.29404 0.24481,-0.14082 0.24446,-0.14124 0.48266,-0.27905 0.12938,0.19889 0.24933,0.30871 0.46457,0.35346 0.292,0.0357 0.58575,-0.0651 0.51986,-0.37517 -0.0677,-0.25329 -0.59777,-0.31462 -0.9586,-0.58549 -0.36631,-0.24602 -0.45245,-0.84389 -0.15141,-1.18546 0.10033,-0.12634 0.27161,-0.22082 0.45114,-0.26613 z m -1.91616,0.046 h 0.5948 c 0,0.5588 0.003,1.08821 0,1.63349 0.001,0.33427 0.03,0.63244 -0.10542,0.88212 h 5.3e-4 c -0.0937,0.19045 -0.27276,0.31529 -0.48008,0.37569 -0.31856,0.0732 -0.62341,0.0317 -0.85007,-0.10439 -0.1517,-0.0931 -0.26995,-0.23649 -0.35037,-0.40153 l 0.48369,-0.2961 c 0.004,0.002 0.0166,0.0246 0.0336,0.0543 0.0617,0.10333 0.11508,0.17653 0.21963,0.22789 0.10272,0.0351 0.3284,0.0577 0.41547,-0.12299 0.0532,-0.0919 0.0362,-0.38768 0.0362,-0.71468 -5e-5,-0.51384 0.002,-1.02576 0.002,-1.53376 z" />
+  </g>
+</svg>

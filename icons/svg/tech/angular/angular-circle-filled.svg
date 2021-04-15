@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="24"
+   height="24"
+   viewBox="0 0 6.3499999 6.3499999"
+   version="1.1"
+   id="svg10908"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   sodipodi:docname="angular-circle-filled.svg">
+  <title
+     id="title11486">angular-circle-filled</title>
+  <defs
+     id="defs10902" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="22.4"
+     inkscape:cx="11.239633"
+     inkscape:cy="11.063399"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1140"
+     inkscape:window-height="1368"
+     inkscape:window-x="1411"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:snap-center="true"
+     inkscape:snap-object-midpoints="true"
+     inkscape:snap-page="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:snap-smooth-nodes="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-bbox-midpoints="true">
+    <sodipodi:guide
+       position="0,6.3499999"
+       orientation="1,0"
+       id="guide11518" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata10905">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>angular-circle-filled</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-109.4619,-112.48571)">
+    <path
+       id="circle-3"
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0916501"
+       d="m 112.6369,112.48571 a 3.175,3.1749997 0 0 0 -3.175,3.175 3.175,3.1749997 0 0 0 3.175,3.175 3.175,3.1749997 0 0 0 3.175,-3.175 3.175,3.1749997 0 0 0 -3.175,-3.175 z m -0.007,0.98857 2.07067,0.71158 -0.32504,2.69493 -1.74356,0.96635 -1.73427,-0.95343 -0.32504,-2.69544 z m 0.007,0.37155 -0.005,0.01 h 0.005 z m -0.005,0.01 h -0.005 l 0.003,0.004 z m -0.003,0.004 -5.3e-4,0.001 5.3e-4,10e-4 5.3e-4,-10e-4 z m 0,0.002 -1.27021,2.81379 0.47129,-0.002 0.25218,-0.63097 0.5426,-0.007 0.59635,-0.003 0.27905,0.64492 0.45424,0.0104 z m -0.003,-0.006 -0.002,-0.005 v 0.005 z m 0.002,0.90692 0.42995,0.89814 h -0.80822 z" />
+  </g>
+</svg>

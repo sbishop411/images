@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="24"
+   height="24"
+   viewBox="0 0 6.3499999 6.3499999"
+   version="1.1"
+   id="svg10908"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   sodipodi:docname="phone-outline-roundedsquare-filled.svg">
+  <title
+     id="title11486">phone-outline-roundedsquare-filled</title>
+  <defs
+     id="defs10902" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="22.4"
+     inkscape:cx="11.239633"
+     inkscape:cy="11.063399"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1140"
+     inkscape:window-height="1368"
+     inkscape:window-x="1411"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:snap-center="true"
+     inkscape:snap-object-midpoints="true"
+     inkscape:snap-page="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:snap-smooth-nodes="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-bbox-midpoints="true">
+    <sodipodi:guide
+       position="0,6.3499999"
+       orientation="1,0"
+       id="guide11518" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata10905">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>phone-outline-roundedsquare-filled</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-109.4619,-112.48571)">
+    <path
+       id="roundedsquare-2-0-5-2"
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0694534"
+       d="m 109.9182,112.48571 c -0.25275,0 -0.4563,0.20355 -0.4563,0.4563 v 5.4374 c 0,0.25275 0.20355,0.4563 0.4563,0.4563 h 5.4374 c 0.25275,0 0.4563,-0.20355 0.4563,-0.4563 v -5.4374 c 0,-0.25275 -0.20355,-0.4563 -0.4563,-0.4563 z m 1.1312,1.38906 h 0.69453 c 0.10913,0 0.19844,0.0893 0.19844,0.19844 0,0.24805 0.0398,0.48623 0.11317,0.70848 0.0218,0.0695 0.006,0.14702 -0.0496,0.20258 l -0.43667,0.43614 c 0.28575,0.56158 0.74636,1.0202 1.30793,1.30794 l 0.43615,-0.43667 c 0.0397,-0.0377 0.0895,-0.0574 0.14108,-0.0574 0.0198,0 0.0417,0.002 0.0615,0.01 0.22225,0.0734 0.46242,0.11317 0.70848,0.11317 0.10914,0 0.19844,0.0893 0.19844,0.19844 v 0.69246 c 0,0.10914 -0.0893,0.19844 -0.19844,0.19844 -1.86333,0 -3.37344,-1.51011 -3.37344,-3.37344 0,-0.10914 0.0893,-0.19844 0.19844,-0.19844 z m 0.20464,0.39688 c 0.0179,0.26193 0.069,0.51377 0.15038,0.75189 l 0.23823,-0.23771 c -0.0476,-0.16471 -0.0775,-0.33757 -0.0894,-0.51418 z m 2.25619,2.38538 -0.23823,0.23616 c 0.24011,0.0794 0.49202,0.13097 0.75396,0.14883 v -0.29611 c -0.17462,-0.0119 -0.34705,-0.0412 -0.51573,-0.0889 z" />
+  </g>
+</svg>

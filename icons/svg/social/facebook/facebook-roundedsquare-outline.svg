@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="24"
+   height="24"
+   viewBox="0 0 6.3499999 6.3499999"
+   version="1.1"
+   id="svg10908"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   sodipodi:docname="facebook-roundedsquare-outline.svg">
+  <title
+     id="title11486">facebook-roundedsquare-outline</title>
+  <defs
+     id="defs10902" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="22.4"
+     inkscape:cx="11.239633"
+     inkscape:cy="11.063399"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1140"
+     inkscape:window-height="1368"
+     inkscape:window-x="1411"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:snap-center="true"
+     inkscape:snap-object-midpoints="true"
+     inkscape:snap-page="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:snap-smooth-nodes="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-bbox-midpoints="true">
+    <sodipodi:guide
+       position="0,6.3499999"
+       orientation="1,0"
+       id="guide11518" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata10905">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>facebook-roundedsquare-outline</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-109.4619,-112.48571)">
+    <path
+       id="roundedsquare-outline-2-16-6-9-45"
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.529071;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 110.32852,112.48571 c -0.47997,0 -0.86662,0.38664 -0.86662,0.86661 v 4.61677 c 0,0.47997 0.38665,0.86662 0.86662,0.86662 h 4.61677 c 0.47997,0 0.86661,-0.38665 0.86661,-0.86662 v -4.61677 c 0,-0.47997 -0.38664,-0.86661 -0.86661,-0.86661 z m 0.19172,0.52916 h 4.23333 c 0.29316,0 0.52917,0.23602 0.52917,0.52917 v 4.23333 c 0,0.29192 -0.23412,0.52665 -0.52555,0.52865 l -1.11415,5.3e-4 v -2.04897 h 0.68833 l 0.10284,-0.79892 h -0.79117 v -0.51006 c 0,-0.23123 0.0644,-0.3886 0.39636,-0.3886 h 0.42168 v -0.71469 c -0.2047,-0.021 -0.41014,-0.0318 -0.61598,-0.031 -0.60997,0 -1.02785,0.37188 -1.02785,1.05523 v 0.58911 h -0.68884 v 0.79892 h 0.68884 v 2.04845 h -2.30218 c -0.2907,-0.003 -0.524,-0.23726 -0.524,-0.52865 v -4.23333 c 0,-0.29315 0.236,-0.52917 0.52917,-0.52917 z" />
+  </g>
+</svg>
