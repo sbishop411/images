@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="24"
+   height="24"
+   viewBox="0 0 6.3499999 6.3499999"
+   version="1.1"
+   id="svg10908"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   sodipodi:docname="linkedin-roundedsquare-outline-black.svg">
+  <title
+     id="title11486">linkedin-roundedsquare-outline-black</title>
+  <defs
+     id="defs10902" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="22.4"
+     inkscape:cx="11.239633"
+     inkscape:cy="11.063399"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1140"
+     inkscape:window-height="1080"
+     inkscape:window-x="1256"
+     inkscape:window-y="1224"
+     inkscape:window-maximized="0"
+     inkscape:snap-center="true"
+     inkscape:snap-object-midpoints="true"
+     inkscape:snap-page="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:snap-smooth-nodes="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-bbox-midpoints="true">
+    <sodipodi:guide
+       position="0,6.3499999"
+       orientation="1,0"
+       id="guide11518" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata10905">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>linkedin-roundedsquare-outline-black</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-109.4619,-112.48571)">
+    <path
+       id="roundedsquare-outline-2-16-7"
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.529071;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 110.32851,112.48571 c -0.47997,0 -0.86661,0.38664 -0.86661,0.86661 v 4.61678 c 0,0.47997 0.38664,0.86661 0.86661,0.86661 h 4.61678 c 0.47997,0 0.86661,-0.38664 0.86661,-0.86661 v -4.61678 c 0,-0.47997 -0.38664,-0.86661 -0.86661,-0.86661 z m 0.19172,0.52917 h 4.23334 c 0.29316,0 0.52916,0.236 0.52916,0.52916 v 4.23334 c 0,0.29315 -0.236,0.52916 -0.52916,0.52916 h -4.23334 c -0.29316,0 -0.52916,-0.23601 -0.52916,-0.52916 v -4.23334 c 0,-0.29316 0.236,-0.52916 0.52916,-0.52916 z m 0.29663,0.26458 v 5.3e-4 c -0.75637,0.0149 -0.7441,1.14751 0.0124,1.14618 l -0.003,-0.001 c 0.3166,0.001 0.57411,-0.25496 0.57464,-0.57205 1e-4,-0.3213 -0.2632,-0.58015 -0.58394,-0.57361 z m 3.01583,1.50327 c -0.48035,0 -0.80185,0.26408 -0.93379,0.51418 h -0.0134 v -0.43667 h -0.9462 v 3.18172 h 0.98547 v -1.572 c 0,-0.4172 0.0862,-0.81907 0.59273,-0.81907 0.50653,0 0.51315,0.47425 0.51315,0.84284 v 1.54823 h 0.98754 v -1.74718 c 0,-0.85461 -0.1855,-1.51417 -1.18546,-1.51205 z m -3.50056,0.0775 v 3.18172 h 0.98754 v -3.18172 z" />
+  </g>
+</svg>
