@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="24"
+   height="24"
+   viewBox="0 0 6.3499999 6.3499999"
+   version="1.1"
+   id="svg10908"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   sodipodi:docname="nodejs-roundedsquare-filled.svg">
+  <title
+     id="title11486">nodejs-roundedsquare-filled</title>
+  <defs
+     id="defs10902" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="22.4"
+     inkscape:cx="11.865285"
+     inkscape:cy="11.063399"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1140"
+     inkscape:window-height="1368"
+     inkscape:window-x="1411"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:snap-center="true"
+     inkscape:snap-object-midpoints="true"
+     inkscape:snap-page="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:snap-smooth-nodes="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-bbox-midpoints="true">
+    <sodipodi:guide
+       position="0,6.3499999"
+       orientation="1,0"
+       id="guide11518" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata10905">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>nodejs-roundedsquare-filled</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-109.4619,-112.48571)">
+    <path
+       id="roundedsquare-59-6"
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0694534"
+       d="m 109.99107,112.48571 c -0.29316,0 -0.52917,0.23601 -0.52917,0.52917 v 5.29166 c 0,0.29316 0.23601,0.52917 0.52917,0.52917 h 5.29166 c 0.29316,0 0.52917,-0.23601 0.52917,-0.52917 v -5.29166 c 0,-0.29316 -0.23601,-0.52917 -0.52917,-0.52917 z m 2.66288,0.79375 c 0.0634,0 0.12662,0.0158 0.18139,0.047 l 1.73839,1.00821 5.3e-4,-5.3e-4 c 0.11306,0.0653 0.16997,0.18707 0.17001,0.31781 v 2.01435 c 0,0.13072 -0.0569,0.25243 -0.17001,0.31833 l -1.73219,1.00769 c -0.0558,0.0323 -0.11927,0.0491 -0.18397,0.0491 -0.0638,0 -0.12714,-0.0168 -0.18294,-0.0491 l -0.58291,-0.34468 c -0.087,-0.0488 -0.0446,-0.066 -0.016,-0.076 0.11618,-0.0403 0.13916,-0.0497 0.26303,-0.11989 0.0129,-0.007 0.029,-0.004 0.0424,0.004 l 0.44596,0.26561 c 0.0163,0.009 0.0358,0.009 0.0507,0 l 1.73839,-1.00717 c 0.0167,-0.009 0.0124,-0.0283 0.0124,-0.0475 V 114.653 c 0,-0.0196 0.003,-0.0381 -0.0139,-0.0481 l -1.73116,-1.00666 c -0.0162,-0.009 -0.0395,-0.009 -0.0558,0 l -1.74821,1.00666 c -0.0169,0.01 -0.0346,0.0291 -0.0346,0.0481 v 2.01435 c 0,0.0192 0.01,0.037 0.0263,0.046 l 0.4775,0.27647 c 0.2594,0.1297 0.40152,-0.0228 0.40152,-0.17622 v -1.98903 c 0,-0.028 0.0557,-0.0698 0.0837,-0.0698 h 0.22169 c 0.0276,0 0.01,0.0422 0.01,0.0703 v 1.98851 c 0,0.34617 -0.17045,0.54467 -0.49868,0.54467 -0.10083,0 -0.16233,-2.6e-4 -0.38396,-0.10956 l -0.46198,-0.26303 c -0.113,-0.0654 -0.19121,-0.1876 -0.19121,-0.31832 V 114.653 c 0,-0.13073 0.0767,-0.25333 0.18966,-0.31833 l 1.75234,-1.00821 c 0.0552,-0.0312 0.11853,-0.047 0.18189,-0.047 z m 0.47336,1.44126 c 0.55924,0 0.83555,0.19402 0.87075,0.6103 0.001,0.0144 -0.003,0.0281 -0.0129,0.0388 -0.01,0.01 -0.0233,0.0155 -0.0372,0.0155 h -0.22686 c -0.0235,0 -0.0436,-0.0166 -0.0486,-0.0393 -0.0544,-0.24168 -0.18661,-0.31832 -0.54518,-0.31832 -0.40138,0 -0.44804,0.13923 -0.44804,0.24391 0,0.12698 0.0548,0.16353 0.59687,0.23513 0.53624,0.071 0.79116,0.16973 0.79116,0.54673 0,0.38024 -0.31683,0.59532 -0.86971,0.59532 -0.76386,0 -0.92398,-0.35655 -0.92398,-0.65061 0,-0.0278 0.0228,-0.0615 0.0507,-0.0615 h 0.2253 c 0.0252,0 0.0461,0.0294 0.0501,0.0543 0.0339,0.22966 0.13601,0.35708 0.5979,0.35708 0.36747,0 0.524,-0.0833 0.524,-0.27854 0,-0.11236 -0.0447,-0.19566 -0.61599,-0.25166 -0.47756,-0.0472 -0.77256,-0.15288 -0.77256,-0.53485 0,-0.35215 0.29674,-0.56224 0.79427,-0.56224 z" />
+  </g>
+</svg>

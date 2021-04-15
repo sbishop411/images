@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="24"
+   height="24"
+   viewBox="0 0 6.3499999 6.3499999"
+   version="1.1"
+   id="svg10908"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   sodipodi:docname="npm-simple.svg">
+  <title
+     id="title11486">npm-simple</title>
+  <defs
+     id="defs10902" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="22.4"
+     inkscape:cx="12.53886"
+     inkscape:cy="5.7062559"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1140"
+     inkscape:window-height="1368"
+     inkscape:window-x="1411"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:snap-center="true"
+     inkscape:snap-object-midpoints="true"
+     inkscape:snap-page="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:snap-smooth-nodes="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-bbox-midpoints="true">
+    <sodipodi:guide
+       position="0,6.3499999"
+       orientation="1,0"
+       id="guide11518" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata10905">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>npm-simple</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-109.4619,-112.48571)">
+    <path
+       id="npm-plain"
+       class="cls-1"
+       d="m 109.4619,114.35487 h 6.35 v 2.23838 h -3.175 v 0.37331 h -1.41134 v -0.37331 h -1.76366 z m 0.35283,1.86557 h 0.70567 V 115.101 h 0.35284 v 1.11944 h 0.35283 v -1.49225 h -1.41134 z m 1.76367,-1.49225 v 1.86506 h 0.70567 v -0.37281 h 0.70567 v -1.49225 z m 0.70567,0.37332 h 0.35283 v 0.74561 h -0.35283 z m 1.0585,-0.37332 v 1.49225 h 0.70567 V 115.101 h 0.35284 v 1.11944 h 0.35283 V 115.101 h 0.35283 v 1.11944 h 0.35284 v -1.49225 z"
+       style="fill:#cb3837;fill-opacity:1;stroke-width:0.0512096" />
+  </g>
+</svg>
